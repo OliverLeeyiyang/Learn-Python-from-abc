@@ -1,0 +1,34 @@
+a = 3.14
+b = 1999
+c = a + b
+print("c =", c )
+d = a - b
+print("d =", d)
+e = a * b
+print("e =", e)
+f = a / b
+print("f =", f)
+g = a ** 2
+print("g =", g)
+h = b // 3
+print("h =", h)
+i = b % 3
+print("i =", i)
+
+# Assignment Operators examples
+x = 10
+print("x =", x)
+x += 5
+print("x += 5:", x)
+x -= 3
+print("x -= 3:", x)
+x *= 2
+print("x *= 2:", x)
+x /= 4
+print("x /= 4:", x)
+x //= 2
+print("x //= 2:", x)
+x %= 3
+print("x %= 3:", x)
+x **= 4
+print("x **= 4:", x)
